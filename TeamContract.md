@@ -57,5 +57,4 @@ By signing below, we acknowledge that we have read, discussed, and agreed to the
 
 Team Member Signatures:
 
-Jacob Domingo Chan
-Haruna Jukurogi
+Jacob Domingo Chan, Haruna Jukurogi
