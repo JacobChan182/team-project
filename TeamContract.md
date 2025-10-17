@@ -30,8 +30,9 @@ This contract sets out shared expectations and commitments for how our team will
 
 ### [Other Categories of norms and expectations go here]
 
-* Based on your previous teamwork experiences, what other behaviours do you agree upon as a team?
-    - some examples of possible additional team norms and expectations are included in the sample team contract in case your team needs some help getting ideas for what else you want to include.
+* During team activities, every member will contribute ideas and engage in the discussion.
+
+
 
 ---
 
@@ -43,6 +44,8 @@ This contract sets out shared expectations and commitments for how our team will
 ## Conflict resolution
 
 * Conflicts will be resolved by majority vote
+
+* If an issue persists after discussion, the TA will be contacted
 
 ---
 
